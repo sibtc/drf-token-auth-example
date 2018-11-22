@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-2.1-brightgreen.svg)](https://djangoproject.com)
-[![Django Rest Framework Version](https://img.shields.io/badge/drf-3.9-brightgreen.svg)](https://www.django-rest-framework.org/)
+[![Django Rest Framework Version](https://img.shields.io/badge/django-rest-framework-3.9-brightgreen.svg)](https://www.django-rest-framework.org/)
 
 Code example used in the tutorial [How to Implement Token Authentication using Django REST Framework](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html).
 
